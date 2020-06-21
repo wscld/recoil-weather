@@ -1,4 +1,7 @@
 import axios from 'axios';
+
+const key = process.env.REACT_APP_API_KEY;
+
 export const getWeatherForCity = async (city) => {
     try {
         const response = await axios({
@@ -7,7 +10,7 @@ export const getWeatherForCity = async (city) => {
             params: {
                 q: city,
                 units:'metric',
-                appid:process.env.REACT_APP_KEY
+                appid: key
             }
         });
         return response.data;
