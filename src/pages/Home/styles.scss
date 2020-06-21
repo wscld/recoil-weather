@@ -1,0 +1,45 @@
+.home-component {
+    .form {
+        display: flex;
+        background-color: white;
+        border-radius: 5px;
+        max-width: 940px;
+        margin: auto;
+        margin-top: 25px;
+        transition: 0.2s;
+        box-shadow: 5px 5px 10px #e4e4e4, -5px -5px 10px #f2f2f2;
+        button {
+            background-color: transparent;
+            border: 0;
+            outline: none;
+            padding: 20px;
+            transition: .2s;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #eee;
+        }
+        input {
+            background-color: transparent;
+            border: 0;
+            outline: none;
+            width: 100%;
+            padding: 20px;
+        }
+    }
+    .form:focus-within {
+        box-shadow: 5px 5px 50px #e4e4e4, -5px -5px 10px #f2f2f2;
+    }
+    .loading {
+        margin: auto;
+        text-align: center;
+        padding: 20px;
+    }
+    .footer {
+        margin: auto;
+        text-align: center;
+        padding: 20px;
+    }
+}

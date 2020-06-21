@@ -1,0 +1,41 @@
+.weather-component {
+    .item {
+        border-radius: 5px;
+        padding: 20px;
+        margin: auto;
+        margin-top: 10px;
+        max-width: 900px;
+        background-color: white;
+        box-shadow: 5px 5px 10px #f3f3f3, -5px -5px 10px #f2f2f2;
+        .date {
+            font-weight: bold;
+            font-size: 18px;
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        .content {
+            display: flex;
+            align-items: center;
+            .icon {
+                height: 100px;
+                width: 100px;
+                margin-right: 15px;
+                border-radius: 50%;
+            }
+            .temp {
+                font-weight: bold;
+            }
+            .min-temp {
+                font-weight: lighter;
+            }
+            .max-temp {
+                font-weight: lighter;
+            }
+        }
+    }
+    .error {
+        margin: auto;
+        text-align: center;
+        padding: 20px;
+    }
+}
