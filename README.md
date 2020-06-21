@@ -1,5 +1,5 @@
 # Recoil-Weather
-Weather React app using Recoil
+Weather React app using RecoilJS
 
 ------------
 
