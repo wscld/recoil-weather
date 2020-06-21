@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "812fcea054259d7f6bbba3d244f319c3",
+    "revision": "8556b148506e0d2cd172806219400cdb",
     "url": "/recoil-weather/index.html"
   },
   {
-    "revision": "b95e0d093466dedc0af6",
+    "revision": "3250fee178ce1775554d",
     "url": "/recoil-weather/static/css/main.5c4c66fe.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recoil-weather/static/js/2.e5deb6e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b95e0d093466dedc0af6",
-    "url": "/recoil-weather/static/js/main.53066a4d.chunk.js"
+    "revision": "3250fee178ce1775554d",
+    "url": "/recoil-weather/static/js/main.a5e3ba15.chunk.js"
   },
   {
     "revision": "b923c8b39830959d6bac",

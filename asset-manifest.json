@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/recoil-weather/static/css/main.5c4c66fe.chunk.css",
-    "main.js": "/recoil-weather/static/js/main.53066a4d.chunk.js",
-    "main.js.map": "/recoil-weather/static/js/main.53066a4d.chunk.js.map",
+    "main.js": "/recoil-weather/static/js/main.a5e3ba15.chunk.js",
+    "main.js.map": "/recoil-weather/static/js/main.a5e3ba15.chunk.js.map",
     "runtime-main.js": "/recoil-weather/static/js/runtime-main.462fcd72.js",
     "runtime-main.js.map": "/recoil-weather/static/js/runtime-main.462fcd72.js.map",
     "static/js/2.e5deb6e3.chunk.js": "/recoil-weather/static/js/2.e5deb6e3.chunk.js",
     "static/js/2.e5deb6e3.chunk.js.map": "/recoil-weather/static/js/2.e5deb6e3.chunk.js.map",
     "index.html": "/recoil-weather/index.html",
-    "precache-manifest.af947d8f6a469310ff684a126be22d19.js": "/recoil-weather/precache-manifest.af947d8f6a469310ff684a126be22d19.js",
+    "precache-manifest.5296d8c394a90bb553049592cf62650e.js": "/recoil-weather/precache-manifest.5296d8c394a90bb553049592cf62650e.js",
     "service-worker.js": "/recoil-weather/service-worker.js",
     "static/css/main.5c4c66fe.chunk.css.map": "/recoil-weather/static/css/main.5c4c66fe.chunk.css.map",
     "static/js/2.e5deb6e3.chunk.js.LICENSE.txt": "/recoil-weather/static/js/2.e5deb6e3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.462fcd72.js",
     "static/js/2.e5deb6e3.chunk.js",
     "static/css/main.5c4c66fe.chunk.css",
-    "static/js/main.53066a4d.chunk.js"
+    "static/js/main.a5e3ba15.chunk.js"
   ]
 }
